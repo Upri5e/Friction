@@ -1,5 +1,9 @@
 # Visual Studio 2015 user specific files
 .vs/
+.vscode/
+
+#All Assets Should Be Downloaded Manually For Saving Storage
+Content/ExternalFiles*
 
 # Compiled Object files
 *.slo
